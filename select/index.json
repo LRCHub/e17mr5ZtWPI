@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Kickstart My Heart (2024 Remaster)",
+  "base_artist": "Mötley Crüe",
+  "createdAt": "2025-12-24T11:21:17.187595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kickstart My Heart",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/01_Kickstart_My_Heart_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kickstart My Heart",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/02_Kickstart_My_Heart_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KickStart My Heart (Demo)",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/03_KickStart_My_Heart_(Demo)_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kickstart My Heart (Live)",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/04_Kickstart_My_Heart_(Live)_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kickstart My Heart",
+      "artist": "Montley Crue",
+      "has_synced": true,
+      "path": "select/05_Kickstart_My_Heart_Montley_Crue.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kickstart My Heart",
+      "artist": "Between the Buried and Me",
+      "has_synced": false,
+      "path": "select/06_Kickstart_My_Heart_Between_the_Buried_and_Me.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kickstart My Heart",
+      "artist": "Motley Crue",
+      "has_synced": true,
+      "path": "select/07_Kickstart_My_Heart_Motley_Crue.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kickstart My Heart",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/08_Kickstart_My_Heart_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kickstart My Heart",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/09_Kickstart_My_Heart_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kickstart My Heart",
+      "artist": "Motley Crue",
+      "has_synced": true,
+      "path": "select/10_Kickstart_My_Heart_Motley_Crue.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kickstart My Heart",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/11_Kickstart_My_Heart_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kickstart My Heart [Demo]",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/12_Kickstart_My_Heart_[Demo]_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kickstart My Heart",
+      "artist": "Mötley Crüe",
+      "has_synced": false,
+      "path": "select/pl_01_Kickstart_My_Heart_Mötley_Crüe.txt"
+    }
+  ]
+}
